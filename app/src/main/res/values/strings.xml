@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Baitap01</string>
+    <string name="student_name">Đặng Huỳnh Sơn</string>
+    <string name="student_id">MSSV: 22110406</string>
+    <string name="hide_title">Ẩn thanh tiêu đề</string>
+    <string name="even_odd_button">Log D số lẻ và chẵn</string>
+    <string name="reverse_button">Nhập chuỗi ký tự</string>
+</resources>
